@@ -19,6 +19,7 @@ const menus = [
     ],
   },
   { name: 'Contact', path: '/contact' },
+  { name: 'Organizer Dashboard', path: '/dashboard' },
 ]
 const handleScroll = () => {
   isScrolled.value = window.scrollY > 10

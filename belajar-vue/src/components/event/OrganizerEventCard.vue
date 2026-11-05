@@ -95,6 +95,7 @@ defineEmits(['view-detail', 'complete', 'delete']);
   background: rgba(108, 117, 125, 0.15);
   color: #6c757d;
 }
+
 .event-title {
   font-size: 1.3rem;
   margin-bottom: var(--space-2);
@@ -182,3 +183,4 @@ defineEmits(['view-detail', 'complete', 'delete']);
   color: white;
 }
 </style>
+
